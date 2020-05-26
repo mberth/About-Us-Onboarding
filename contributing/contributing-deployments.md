@@ -15,7 +15,7 @@ We are wrapping up our first deployments push to Manchester, and gearing up for 
 
 ### Manchester Initiative
 * Ask in [#zerobase-deployments](https://necsi-edu.slack.com/archives/C010MA2D7PU) for the current list of businesses to call
-* Join our (Manchester Airtable)[https://airtable.com/tbldZCDkeOg4ydv3q/viwGCUb9YVVa88zUa] and see the pinned instructions on slack on how to use our call list
+* Join our [Manchester Airtable](https://airtable.com/tbldZCDkeOg4ydv3q/viwGCUb9YVVa88zUa) and see the pinned instructions on slack on how to use our call list
 
 ### Create deployment materials
 What materials do you predict will be needed for on the ground deployment? Let's create them!
